@@ -1,5 +1,6 @@
 # 🚀 Personal Finance Tracker: Professional API Backend
 
+💰 Production-grade FastAPI backend for personal finance tracking with RBAC & analytics
 A high-performance, asynchronous FastAPI backend designed for robust personal finance tracking. This system features granular Role-Based Access Control (RBAC), advanced financial analytics, and a resilient dual-database architecture.
 
 ---
